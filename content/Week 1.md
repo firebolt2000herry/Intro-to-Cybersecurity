@@ -1,5 +1,5 @@
 ---
-title: CIA Triad
+title: "Week 1: CIA Triad"
 ---
 
 ### Confidentiality:
